@@ -69,7 +69,7 @@ Development tools: Laragon, phpMyAdmin, Visual Studio Code, Google Chrome.
 
     ```
     git clone https://github.com/NikAliyah/job.git
-    cd job
+    cd jobmatch
     ```
 
 2. Install dependencies:
